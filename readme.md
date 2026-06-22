@@ -1,6 +1,5 @@
 <!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
+
     
 
 
@@ -39,14 +38,21 @@ Gere em português do Brasil.
 Não invente informações e se atenha as informações contidas nas fontes enviadas.
 
 
+Aja como se você fosse Dale Carnegie e crie uma imagem/ infográfico com o resumo ilustrado detalhado e educativo em português do Brasil explicando cada conceito, insight e ensinamento de cada livro de Dale Carnegie de forma que quem nunca leu o livro consiga entender e aprender com o documento gerado.
+Importante: 
+Gere em português do Brasil. 
+Não invente informações e se atenha as informações contidas nas fontes enviadas.
+
 ## 📚 Fontes e Referências
 
 #FONTES DE VIDEO:
+
 https://www.youtube.com/watch?v=BpA-4GM6mNk 
 Como Falar em Público e Encantar as Pessoas https://www.youtube.com/watch?v=One5--ZG_gA 
 Liderança: Como conquistar a confiança,  a lealdade e a admiração das pessoas: https://www.youtube.com/watch?v=Ys8gKqW5NLc 
 
 #FONTES DE TEXTO: 
+
 https://books.google.com.br/books/about/Lideran%C3%A7a.html?id=Y3B7EAAAQBAJ&redir_esc=y 
 https://www.folhavitoria.com.br/economia/negocios/as-cinco-licoes-essenciais-da-lideranca-dale-carnegie/
 https://img.travessa.com.br/capitulo/SEXTANTE/COMO_FAZER_AMIGOS_E_INFLUENCIAR_PESSOAS_NA_ERA_DIGITAL-9788543109480.pdf
@@ -61,15 +67,16 @@ https://pt.scribd.com/doc/50609950/Os-Segredos-do-Sucesso-Dale-Carnegie
 https://www.saomateus.es.gov.br/uploads/galeriadefotos/9173emuxn05tl2ac8b6yfvrkd4whog.pdf 
 
 
-## 📚 Modelo de resultado
+## 📚 Modelos de resultado
 
 <img width="1536" height="2752" alt="Mastering_Influence_and_Leadership" src="https://github.com/user-attachments/assets/32335128-3050-4876-a73c-00d790f4715e" />
 
+<img width="1536" height="2752" alt="Guia_de_Liderança_e_Influência" src="https://github.com/user-attachments/assets/95b6bec9-c472-4289-a8d1-5294bb7a0aea" />
 
 <br />
 <br />
 
-<p align="center">
+
   <a href="https://www.dio.me/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
   </a>
